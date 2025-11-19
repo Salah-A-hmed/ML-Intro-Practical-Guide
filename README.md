@@ -14,9 +14,9 @@
 
 ---
 
-## 📁 محتويات الريبو
+## محتويات الريبو
 
-### **0️⃣ – Getting Started**
+### **0 – Getting Started**
 يحتوي على:
 - طريقة تثبيت Python & Libraries
 - كيفية فتح وتشغيل الـ Notebooks
@@ -24,7 +24,7 @@
 
 ---
 
-### **1️⃣ – Logical Models**
+### **1️ – Logical Models**
 هنا بنطبق أبسط نماذج Machine Learning:
 - Decision Trees  
 - Rule-Based Systems
@@ -35,7 +35,7 @@
 
 ---
 
-### **2️⃣ – Geometric Models**
+### **2️ – Geometric Models**
 
 #### **2.1 – Linear Models**
 - تطبيق Linear Regression
@@ -47,14 +47,14 @@
 
 ---
 
-### **3️⃣ – Probabilistic Models**
+### **3️ – Probabilistic Models**
 تطبيق مباشر على:
 - Naive Bayes  
 باستخدام Tennis Dataset
 
 ---
 
-### **4️⃣ – Types of Learning**
+### **4️ – Types of Learning**
 نطبّق الأنواع الثلاثة:
 - Supervised Learning → Classification Example  
 - Unsupervised → K-means Clustering  
@@ -62,7 +62,7 @@
 
 ---
 
-## 🎯 الهدف من الريبو
+## الهدف من الريبو
 
 أن يكون هذا الريبو:
 - دليل عملي بسيط
@@ -73,7 +73,7 @@
 
 ---
 
-## 🚀 كيف تبدأ؟
+## كيف تبدأ؟
 
 ادخل على:
 ```
