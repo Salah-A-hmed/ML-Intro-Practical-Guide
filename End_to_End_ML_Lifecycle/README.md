@@ -23,10 +23,6 @@ data/
 sales_data.csv
 notebooks/
 EDA_and_Modeling.ipynb
-src/
-data_processing.py
-model_training.py
-prediction.py
 app/
 streamlit_app.py
 images/
