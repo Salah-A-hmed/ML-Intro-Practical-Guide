@@ -59,7 +59,7 @@ Main libraries include:
 
 ### 1. Data Collection
 - Use a real sales dataset (`sales_data.csv`)
-- Example sources: [Kaggle Sample Superstore](https://www.kaggle.com/datasets/), retail sales datasets
+- Example sources: [Kaggle Sample Superstore](https://www.kaggle.com/datasets/kyanyoga/sample-superstore)
 - Load dataset using Pandas
 
 ### 2. Data Cleaning & EDA
