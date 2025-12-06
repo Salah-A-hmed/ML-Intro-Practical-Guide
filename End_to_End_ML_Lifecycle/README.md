@@ -14,33 +14,23 @@ By the end of this project, you will be able to:
 
 ---
 
-## 📂 Folder Structure
-
 End to End ML Life Cycle/
-│
-├── data/
-│   └── sales_data.csv 
-│
-├── notebooks/
-│   └── EDA_and_Modeling.ipynb # Jupyter notebook with step-by-step EDA, training, and evaluation
-│
-├── src/
-│   ├── data_processing.py # Scripts to clean and prepare data
-│   ├── model_training.py # Scripts to train and save ML models
-│   └── prediction.py # Scripts for loading model and making predictions
-│
-├── app/
-│   └── streamlit_app.py # Streamlit interface for predicting sales
-│
-├── images/
-│   ├── ml_libraries_1.png
-│   └── ml_libraries_2.png
-│
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
-
+data/
+sales_data.csv
+notebooks/
+EDA_and_Modeling.ipynb
+src/
+data_processing.py
+model_training.py
+prediction.py
+app/
+streamlit_app.py
+images/
+ml_libraries_1.png
+ml_libraries_2.png
+requirements.txt
+README.md
 ---
-
 ## 🛠 ML Lifecycle Steps
 
 ### 0. Required Libraries
