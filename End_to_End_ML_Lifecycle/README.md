@@ -14,23 +14,6 @@ By the end of this project, you will be able to:
 
 ---
 
-End to End ML Life Cycle/
-data/
-sales_data.csv
-notebooks/
-EDA_and_Modeling.ipynb
-src/
-data_processing.py
-model_training.py
-prediction.py
-app/
-streamlit_app.py
-images/
-ml_libraries_1.png
-ml_libraries_2.png
-requirements.txt
-README.md
----
 ## 🛠 ML Lifecycle Steps
 
 ### 0. Required Libraries
