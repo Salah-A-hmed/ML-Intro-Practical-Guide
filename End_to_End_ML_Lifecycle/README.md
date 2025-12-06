@@ -42,7 +42,7 @@ README.md
 ## 🛠 ML Lifecycle Steps
 
 ### 0. Required Libraries
-Here's a quick visual summary of the main Python libraries we will use:
+Here's a quick visual summary of the main Python libraries we need in ML:
 
 ![ML Libraries Overview](images/ml_libraries_1.jpg)
 ![ML Libraries Details](images/ml_libraries_2.jpg)
