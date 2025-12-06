@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project is designed as a **complete guide for beginners** to learn and implement the **entire Machine Learning lifecycle** using **real sales data**. It covers everything from **data collection** to **deployment** on **Streamlit**.  
+This project is designed as a **complete guide for beginners** to learn and implement the **entire Machine Learning lifecycle** using **real sales data**. It covers everything from **data collection** to **deployment on Streamlit**.
 
 By the end of this project, you will be able to:
 - Explore and clean a real sales dataset
@@ -11,6 +11,31 @@ By the end of this project, you will be able to:
 - Train a machine learning model to predict sales
 - Evaluate model performance
 - Save and deploy the model using Streamlit
+
+---
+
+## 📂 Folder Structure
+
+```
+
+End to End ML Life Cycle/
+data/
+sales_data.csv
+notebooks/
+EDA_and_Modeling.ipynb
+src/
+data_processing.py
+model_training.py
+prediction.py
+app/
+streamlit_app.py
+images/
+ml_libraries_1.png
+ml_libraries_2.png
+requirements.txt
+README.md
+
+````
 
 ---
 
@@ -68,10 +93,16 @@ Main libraries include:
 ```bash
 git clone <repo-link>
 cd "End to End ML Life Cycle"
-```
+````
+
 2. Install dependencies:
+
+```bash
 pip install -r requirements.txt
+```
 
-3.Run the Streamlit app:
+3. Run the Streamlit app:
+
+```bash
 streamlit run app/streamlit_app.py
-
+```
