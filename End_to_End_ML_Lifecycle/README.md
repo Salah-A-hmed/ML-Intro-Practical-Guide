@@ -13,7 +13,7 @@ By the end of this project, you will be able to:
 * Evaluate model performance
 * Save and deploy the model using Streamlit
 
-> **Note for beginners:** The goal is to make all steps simple and understandable, with explanations for terms that may be unfamiliar.
+> **Note:** The goal is to make all steps simple and understandable, with explanations for terms that may be unfamiliar.
 
 ---
 
@@ -61,9 +61,6 @@ Here’s a quick visual summary of the main Python libraries we need:
 * `scikit-learn` → for training ML models, preprocessing, and evaluation
 * `pickle` → for saving and loading trained models
 * `streamlit` → for creating interactive apps that anyone can use
-
-> **Tip:** Each library has a specific role. For example, `scikit-learn` is the main library for machine learning in Python.
-
 ---
 
 ### 1️⃣ Data Collection
@@ -159,7 +156,7 @@ pickle.dump((model, encoder), open("model/sales_model.pkl", "wb"))
 streamlit run app/streamlit_app.py
 ```
 
-**Explanation for beginners:**
+**Explanation: **
 
 * Streamlit makes your app **interactive and easy to use**.
 * No programming skills are needed; just input the data and click Predict.
