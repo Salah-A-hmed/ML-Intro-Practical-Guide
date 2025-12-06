@@ -68,17 +68,18 @@ df.head()
 ```
 
 ### 2. Data Cleaning & EDA
-- Check for missing values
+- Check for missing values and duplicated
 - Analyze sales, categories, and regions
 - Visualize trends using Matplotlib / Seaborn
 
 ### 3. Feature Engineering
+- Encode categorical variables 
 - Select important features like `Product Category`, `Price`, `Quantity`, `Region`
-- Encode categorical variables if needed
 
 ### 4. Model Training
 - Split data into training and testing sets
 - Train a simple ML model (e.g., Linear Regression, Decision Tree Regressor)
+- use the trained model to predict on new data (test data)
 - Evaluate performance using metrics like **MSE** or **R²**
 
 ### 5. Model Saving
