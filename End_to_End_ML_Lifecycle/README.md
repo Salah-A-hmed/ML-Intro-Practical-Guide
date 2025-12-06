@@ -24,6 +24,7 @@ sales_data.csv
 notebooks/
 EDA_and_Modeling.ipynb
 app/
+sales_model.pkl
 streamlit_app.py
 images/
 ml_libraries_1.png
