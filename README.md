@@ -75,7 +75,7 @@
 
 ---
 
-### **5 – Design Learning System** (`4-Design-learning-system`)
+### **5 – Design Learning System** 
 
 * خطوات تصميم نظام تعلم آلي من الصفر
 * شرح عملية اختيار البيانات، الخصائص (Features)، والنماذج
@@ -83,7 +83,7 @@
 
 ---
 
-### **6 – End to End ML Lifecycle** (`End_to_End_ML_Lifecycle`)
+### **6 – End to End ML Lifecycle**
 
 * دليل كامل للمبتدئين لتطبيق دورة حياة **Machine Learning** على بيانات مبيعات حقيقية
 * خطوات المشروع:
@@ -129,6 +129,3 @@
 * `End_to_End_ML_Lifecycle/`
 
 ---
-
-
-تحبي أعملها؟
