@@ -40,6 +40,3 @@ The system learns an **approximation of V** by adjusting weights for each featur
 5. **Repeat:** Multiple games are played to refine the weights.
 
 ---
-
-## Folder Structure
-
