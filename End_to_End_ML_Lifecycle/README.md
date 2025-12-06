@@ -58,9 +58,14 @@ Main libraries include:
 ---
 
 ### 1. Data Collection
-- Use a real sales dataset (`sales_data.csv`)
-- Example sources: [Kaggle Sample Superstore](https://www.kaggle.com/datasets/kyanyoga/sample-superstore)
-- Load dataset using Pandas
+- The sales dataset is already included in the repository: `data/sales_data.csv`
+- Load dataset using Pandas:
+
+```python
+import pandas as pd
+df = pd.read_csv("data/sales_data.csv")
+df.head()
+```
 
 ### 2. Data Cleaning & EDA
 - Check for missing values
