@@ -99,7 +99,6 @@ df.head()  # Display the first 5 rows
 
 * **Encode categorical variables** → convert text categories into numbers (e.g., Category → Furniture, Technology…)
 * **Select important features** → Quantity, Price, Region…
-* **Optional:** Create new features (e.g., Profit = Price × Quantity)
 
 **Explanation:**
 
