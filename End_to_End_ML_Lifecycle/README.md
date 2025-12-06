@@ -44,8 +44,8 @@ README.md
 ### 0. Required Libraries
 Here's a quick visual summary of the main Python libraries we will use:
 
-![ML Libraries Overview](images/ml_libraries_1.png)
-![ML Libraries Details](images/ml_libraries_2.png)
+![ML Libraries Overview](images/ml_libraries_1.jpg)
+![ML Libraries Details](images/ml_libraries_2.jpg)
 
 Main libraries include:
 - `pandas` → Data loading & manipulation
