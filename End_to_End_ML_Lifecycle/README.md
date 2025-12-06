@@ -156,7 +156,7 @@ pickle.dump((model, encoder), open("model/sales_model.pkl", "wb"))
 streamlit run app/streamlit_app.py
 ```
 
-**Explanation: **
+**Explanation:**
 
 * Streamlit makes your app **interactive and easy to use**.
 * No programming skills are needed; just input the data and click Predict.
